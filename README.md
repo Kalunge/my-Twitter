@@ -1,8 +1,10 @@
 # my-Twitter
--This app enables useres to 
+-This app enables users to 
 
--signu-up
+-sign-up
+
 -login
+
 -Create, read, update and delete tweets.
 
 # link to app in heroku
